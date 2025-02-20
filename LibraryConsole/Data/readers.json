@@ -1,0 +1,22 @@
+[
+  {
+    "Login": "ali123",
+    "Password": "password",
+    "Id": 1,
+    "FirstName": "Ali",
+    "LastName": "Valiyev",
+    "Age": 25,
+    "BorrowedBooksCount": 0,
+    "BorrowedBooks": []
+  },
+  {
+    "Login": "john_doe",
+    "Password": "123456",
+    "Id": 2,
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Age": 30,
+    "BorrowedBooksCount": 0,
+    "BorrowedBooks": []
+  }
+]

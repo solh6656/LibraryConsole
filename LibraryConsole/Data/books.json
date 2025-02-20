@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Title": "O'tkan Kunlar",
+    "Genre": "Roman",
+    "Author": "Abdulla Qodiriy",
+    "TotalQuantity": 5,
+    "AvailableQuantity": 4,
+    "Readers": [
+      "Ali"
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "Mehrobdan Chayon",
+    "Genre": "Roman",
+    "Author": "Abdulla Qahhor",
+    "TotalQuantity": 3,
+    "AvailableQuantity": 3,
+    "Readers": []
+  },
+  {
+    "Id": 3,
+    "Title": "Amerika Fojeasi",
+    "Genre": "Tragediya",
+    "Author": "Teodor Dreiser",
+    "TotalQuantity": 4,
+    "AvailableQuantity": 2,
+    "Readers": [
+      "Ali",
+      "Ali"
+    ]
+  }
+]
